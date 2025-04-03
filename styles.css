@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     color: #333;
-    background-color: #f4f4f4;
+    background-color: rgb(70, 91, 84);
 }
 .container {
     max-width: 800px;
@@ -16,7 +16,7 @@ body {
 }
 h1,
 h2 {
-    color: #2d6843;
+    color: rgb(70, 91, 84);
 }
 .header {
     text-align: center;
